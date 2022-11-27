@@ -1,0 +1,2 @@
+01) Go to the Twilio (https://console.twilio.com/) and create account.
+02) Copy the Account SID, Auth token, Trial Number and add project config.
